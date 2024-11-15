@@ -8,7 +8,7 @@ function App() {
       <header>
        <p>NavBar</p>
       </header>
-      <section className='h-screen'>
+      <section>
         
         <img src={HotelBg} alt="" className='rounded-lg' />
       </section>
